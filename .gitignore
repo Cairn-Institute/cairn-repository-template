@@ -1,0 +1,26 @@
+# Dependencies
+node_modules/
+vendor/
+.venv/
+__pycache__/
+
+# Build output
+dist/
+build/
+*.log
+
+# Environment and secrets
+.env
+.env.local
+*.pem
+*.key
+
+# Editor and OS files
+.DS_Store
+.vscode/
+.idea/
+Thumbs.db
+
+# Test and coverage output
+coverage/
+.pytest_cache/
