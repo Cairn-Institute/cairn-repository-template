@@ -1,0 +1,13 @@
+# Default repository owners
+* @cairn-institute/technical-leads
+
+# Frontend
+/src/frontend/ @cairn-institute/web-development
+
+# Backend and APIs
+/src/backend/ @cairn-institute/software-engineering
+/src/api/ @cairn-institute/software-engineering
+
+# Security-sensitive files
+/.github/workflows/ @cairn-institute/technical-leads @cairn-institute/cybersecurity
+/SECURITY.md @cairn-institute/cybersecurity
